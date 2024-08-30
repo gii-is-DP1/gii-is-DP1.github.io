@@ -39,7 +39,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/gii-is-DP1/tree/develop',
+            'https://github.com/gii-is-DP1/gii-is-DP1.github.io/tree/develop',
         },
         blog: {
           showReadingTime: true,
@@ -50,7 +50,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-           'https://github.com/gii-is-DP1/tree/develop',
+           'https://github.com/gii-is-DP1/gii-is-DP1.github.io/tree/develop',
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
