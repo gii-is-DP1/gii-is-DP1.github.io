@@ -39,7 +39,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/develop',
+            'https://github.com/gii-is-DP1/tree/develop',
         },
         blog: {
           showReadingTime: true,
