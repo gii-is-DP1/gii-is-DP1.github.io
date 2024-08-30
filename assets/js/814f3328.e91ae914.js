@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdp_1=self.webpackChunkdp_1||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Hall of fame created","permalink":"/blog/Hall of fame created","unlisted":false,"date":"2024-08-30T00:00:00.000Z"}]}')}}]);

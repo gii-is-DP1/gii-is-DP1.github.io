@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="rss.xsl"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>DP1 Blog</title>
+        <link>https://gii-is-DP1.github.io/blog</link>
+        <description>DP1 Blog</description>
+        <lastBuildDate>Fri, 30 Aug 2024 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[Hall of fame created]]></title>
+            <link>https://gii-is-DP1.github.io/blog/Hall of fame created</link>
+            <guid>https://gii-is-DP1.github.io/blog/Hall of fame created</guid>
+            <pubDate>Fri, 30 Aug 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[🎉 Announcing the Design & Tests 1 (DP1) Hall of Fame! 🎉]]></description>
+            <content:encoded><![CDATA[<p>🎉 Announcing the Design &amp; Tests 1 (DP1) Hall of Fame! 🎉</p>
+<p>We are excited to introduce the DP1 Hall of Fame, a dedicated space where we celebrate the most outstanding projects from our students. Each year, our students push the boundaries of creativity and technical excellence, and now, their exceptional work will be showcased for all to see!</p>
+<p>Explore the best projects from each academic year, complete with descriptions, screenshots, and links to their GitHub repositories. Witness the innovation and dedication that defines our course and get inspired by the remarkable achievements of your peers.</p>
+<p>Check out the Hall of Fame now and discover the top projects that have set the standard in Design &amp; Tests 1!</p>]]></content:encoded>
+        </item>
+    </channel>
+</rss>

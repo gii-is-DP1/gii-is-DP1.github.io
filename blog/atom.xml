@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://gii-is-DP1.github.io/blog</id>
+    <title>DP1 Blog</title>
+    <updated>2024-08-30T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://gii-is-DP1.github.io/blog"/>
+    <subtitle>DP1 Blog</subtitle>
+    <icon>https://gii-is-DP1.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Hall of fame created]]></title>
+        <id>https://gii-is-DP1.github.io/blog/Hall of fame created</id>
+        <link href="https://gii-is-DP1.github.io/blog/Hall of fame created"/>
+        <updated>2024-08-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[🎉 Announcing the Design & Tests 1 (DP1) Hall of Fame! 🎉]]></summary>
+        <content type="html"><![CDATA[<p>🎉 Announcing the Design &amp; Tests 1 (DP1) Hall of Fame! 🎉</p>
+<p>We are excited to introduce the DP1 Hall of Fame, a dedicated space where we celebrate the most outstanding projects from our students. Each year, our students push the boundaries of creativity and technical excellence, and now, their exceptional work will be showcased for all to see!</p>
+<p>Explore the best projects from each academic year, complete with descriptions, screenshots, and links to their GitHub repositories. Witness the innovation and dedication that defines our course and get inspired by the remarkable achievements of your peers.</p>
+<p>Check out the Hall of Fame now and discover the top projects that have set the standard in Design &amp; Tests 1!</p>]]></content>
+        <author>
+            <name>José Antonio Parejo</name>
+            <uri>https://github.com/japarejo</uri>
+        </author>
+    </entry>
+</feed>
