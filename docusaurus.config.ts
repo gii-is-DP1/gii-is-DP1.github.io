@@ -17,6 +17,7 @@ const config: Config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'gii-is-DP1', // Usually your GitHub org/user name.
   projectName: 'gii-is-DP1.github.io', // Usually your repo name.
+  deploymentBranch: 'gh-pages',
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -69,7 +70,7 @@ const config: Config = {
       title: 'DP1',
       logo: {
         alt: 'DP1 Logo',
-        src: 'img/logo.png',
+        src: 'img/Logo.png',
       },
       items: [
         {
