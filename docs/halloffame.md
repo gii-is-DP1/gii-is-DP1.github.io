@@ -16,9 +16,9 @@ Welcome to the hall of fame (showcase of the best projects) from the **Design & 
 *War of the Ring* is a strategic fantasy board game where players embark on a journey through enchanted forests, battle mythical creatures, and seek ancient treasures. The game emphasizes strategic decision-making, resource management, and player cooperation.
 
 **Authors:**
-- Alice Johnson
-- Michael Smith
-- Emma Brown
+- Shigeru Mayimoto
+- Satoru Awita
+- Masahiro Kurasai
 
 **Implemented Board Game:**
 - *War of the ring*
