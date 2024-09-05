@@ -60,10 +60,17 @@ Welcome to the hall of fame (showcase of the best projects) from the **Design & 
 
 ## Academic Year 2022-2023
 
-### Project: **Castle Siege**
+### Project: **Tyrants of the Underdark**
 
 **Description:**
-*Castle Siege* is a medieval-themed board game where players assume the roles of rival lords vying for control of a kingdom. Players must build their armies, fortify their castles, and outmaneuver their opponents in a bid for dominance.
+*Tyrants of the Underdark* is a competitive game for 2-4 players that immerses you in the stories of Dungeons and Dragons. Who will be able to control the depths of the Underdark?.
+
+To achieve this, we have four of the most important clans in the region. Each player will represent one of these clans, with the goal of creating the most optimal deck to become more efficient during their turn and take control of the map. There will be a common market from which everyone can buy cards using influence points. Be the first to get the best ones. Use power points to perform basic actions. Trade 1 power to deploy a troop, 3 to return an enemy spy, and 3 to eliminate an enemy troop.
+
+![chrome_uaBfIhUh6T](https://github.com/user-attachments/assets/35aa4e78-0a61-4540-bed2-a5d2ffb6723b)
+
+SEGUIR POR AQUI
+
 
 **Authors:**
 - Olivia White
