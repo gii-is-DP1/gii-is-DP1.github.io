@@ -113,6 +113,7 @@ The player with the most victory points will be the winner, and thus, the clan w
 - *Tyrants of the Underdark*
 
 **Screenshots:**
+
 ![chrome_K7t8iMgmZD](https://github.com/user-attachments/assets/8c9995e4-3fc1-4f47-99fd-d8cc227d68a7)
 ![chrome_Odqu0Z7pUc](https://github.com/user-attachments/assets/7a1716ed-bb7f-43b8-8499-2df6e61486ce)
 ![chrome_xcokxUgrRT](https://github.com/user-attachments/assets/8666d89a-151e-486e-95ed-bcd4eb1936d8)
