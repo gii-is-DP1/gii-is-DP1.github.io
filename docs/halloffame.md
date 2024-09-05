@@ -167,6 +167,7 @@ The game is designed for 2 to 6 players, and the game ends when there is only on
 - *Monopoly*
 
 **Screenshots:**
+
 ![Acrobat_NfgmPNSwNw](https://github.com/user-attachments/assets/8509368d-2e76-4bb1-b1bb-776f8d84aa46)
 ![Acrobat_cizD9qS71b](https://github.com/user-attachments/assets/15c3d60c-ea02-4a3e-91fa-73566082dc68)
 ![Acrobat_UusaAu1piV](https://github.com/user-attachments/assets/01afce9b-9875-4162-8fe4-345673a4dc63)
