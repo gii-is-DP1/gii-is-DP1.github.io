@@ -124,9 +124,59 @@ The player with the most victory points will be the winner, and thus, the clan w
 Screencast playing the game:
 https://www.youtube.com/watch?v=nLV8iN3MfUM
 
+**GitHub Repository:**
+[GitHub - Tyrants of the Underdark](https://github.com/gii-is-DP1/dp1-2022-2023-l7-4)
+
+
+### Project: **Monopoly**
+
+**Description:**
+*Monopoly* In this game, the goal is to accumulate more money and influence on the board than the rest of the players, until they go bankrupt, at which point they will be out of the game.
+
+To achieve this, players will move around the board and, using their own money, will buy, sell, and auction off the streets that make up the board.
+![Acrobat_NF2iHhvMjp](https://github.com/user-attachments/assets/728a5b16-70dc-43eb-b903-6be95d72c93d)
+
+The way to earn more money will be through those same streets, which will force any non-owning player who lands on them to pay the owner a certain amount indicated on the property card.
+![Acrobat_pj7CVgpnPX](https://github.com/user-attachments/assets/e79c1ed2-afe1-4416-bf7b-b1bef41e8ce6)
+
+The streets are grouped by color, usually 2 or 3 streets per group, and as you progress on the board, the purchase price increases, but so does the rent for landing on them, making certain streets more desirable than others.
+
+As the game progresses, houses and hotels will be built when a player owns a complete set of streets of the same color, increasing the amount other players must pay the owner. Once a player is unable to pay due to not having enough money, they will be considered bankrupt and must leave the game, returning all their remaining properties to the bank, a non-player entity.
+![Acrobat_2VVXMSaKGp](https://github.com/user-attachments/assets/25bf6bcd-4816-4188-bfc1-e0a225496349)
+
+There are also other ways to gain and lose money on the board, such as Chance and Community Chest spaces, which have random effects each time a player lands on them. These effects can include paying other players, receiving money, or even automatically and freely getting out of jail. Additionally, there are Tax spaces, which force the player to pay a certain amount of money to the bank simply for landing on them.
+![Acrobat_qQ1zstHE0u](https://github.com/user-attachments/assets/040080b0-19f2-438d-b3ef-415247267791)
+
+In addition, there are special spaces, such as Jail, which requires players who land there to stay put for up to 3 turns. There is also the Go space, which grants players 200M just for passing by, and the Free Parking space, which has no effect and landing on it is completely neutral.
+
+The game is designed for 2 to 6 players, and the game ends when there is only one player who is not bankrupt, who will be considered the winner. Games have a variable duration, averaging around 2 hours, but they can extend up to 4 hours or even more.
+
+**Authors:**
+- Úrsula Garrucho Sánchez
+- María Márquez Soldán
+- Juan Carlos Morato Navarro
+- Olegario Morato Navarro
+- Miguel Ángel Roldán García
+- Álvaro Urquijo Martínez
+
+**Implemented Board Game:**
+- *Monopoly*
+
+**Screenshots:**
+![Acrobat_NfgmPNSwNw](https://github.com/user-attachments/assets/8509368d-2e76-4bb1-b1bb-776f8d84aa46)
+![Acrobat_cizD9qS71b](https://github.com/user-attachments/assets/15c3d60c-ea02-4a3e-91fa-73566082dc68)
+![Acrobat_UusaAu1piV](https://github.com/user-attachments/assets/01afce9b-9875-4162-8fe4-345673a4dc63)
+![Acrobat_dbPkBGComK](https://github.com/user-attachments/assets/e17a9b38-b935-4e90-a5c5-718f9fa8f776)
+![Acrobat_RsfNwt12HJ](https://github.com/user-attachments/assets/e1341c8a-f629-4eda-8368-354364a63389)
+![Acrobat_uMCfH13wKx](https://github.com/user-attachments/assets/02848411-66ce-4843-9fc0-92af7bc7cc71)
+
+
+
+Screencast playing the game:
+[https://www.youtube.com/watch?v=nLV8iN3MfUM](https://youtu.be/AY4eYm4VWR4)
 
 **GitHub Repository:**
-[GitHub - Tyrants of the Underdark]([https://github.com/username/castle-siege](https://github.com/gii-is-DP1/dp1-2022-2023-l7-4))
+[GitHub - Monopoly](https://github.com/gii-is-DP1/dp1-2022-2023-l7-3)
 
-
+---
 Each of these projects reflects the hard work and innovation of our students. We are proud to showcase their achievements and encourage you to explore their repositories for more insights into their development process.
