@@ -134,17 +134,21 @@ https://www.youtube.com/watch?v=nLV8iN3MfUM
 *Monopoly* In this game, the goal is to accumulate more money and influence on the board than the rest of the players, until they go bankrupt, at which point they will be out of the game.
 
 To achieve this, players will move around the board and, using their own money, will buy, sell, and auction off the streets that make up the board.
+
 ![Acrobat_NF2iHhvMjp](https://github.com/user-attachments/assets/728a5b16-70dc-43eb-b903-6be95d72c93d)
 
 The way to earn more money will be through those same streets, which will force any non-owning player who lands on them to pay the owner a certain amount indicated on the property card.
+
 ![Acrobat_pj7CVgpnPX](https://github.com/user-attachments/assets/e79c1ed2-afe1-4416-bf7b-b1bef41e8ce6)
 
 The streets are grouped by color, usually 2 or 3 streets per group, and as you progress on the board, the purchase price increases, but so does the rent for landing on them, making certain streets more desirable than others.
 
 As the game progresses, houses and hotels will be built when a player owns a complete set of streets of the same color, increasing the amount other players must pay the owner. Once a player is unable to pay due to not having enough money, they will be considered bankrupt and must leave the game, returning all their remaining properties to the bank, a non-player entity.
+
 ![Acrobat_2VVXMSaKGp](https://github.com/user-attachments/assets/25bf6bcd-4816-4188-bfc1-e0a225496349)
 
 There are also other ways to gain and lose money on the board, such as Chance and Community Chest spaces, which have random effects each time a player lands on them. These effects can include paying other players, receiving money, or even automatically and freely getting out of jail. Additionally, there are Tax spaces, which force the player to pay a certain amount of money to the bank simply for landing on them.
+
 ![Acrobat_qQ1zstHE0u](https://github.com/user-attachments/assets/040080b0-19f2-438d-b3ef-415247267791)
 
 In addition, there are special spaces, such as Jail, which requires players who land there to stay put for up to 3 turns. There is also the Go space, which grants players 200M just for passing by, and the Free Parking space, which has no effect and landing on it is completely neutral.
