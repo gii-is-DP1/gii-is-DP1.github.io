@@ -8,56 +8,6 @@ Welcome to the hall of fame (showcase of the best projects) from the **Design & 
 
 ---
 
-## Academic Year 2023-2024
-
-### Project: **War of the ring**
-
-**Description:**
-*War of the Ring* is a strategic fantasy board game where players embark on a journey through enchanted forests, battle mythical creatures, and seek ancient treasures. The game emphasizes strategic decision-making, resource management, and player cooperation.
-
-**Authors:**
-- Shigeru Mayimoto
-- Satoru Awita
-- Masahiro Kurasai
-
-**Implemented Board Game:**
-- *War of the ring*
-
-**Screenshots:**
-
-![War of the ring Screenshot 1](https://cf.geekdo-images.com/ImPgGag98W6gpV1KV812aA__imagepage/img/ZHAFxwwPAmpSqOjPb98GZV_x3rA=/fit-in/900x600/filters:no_upscale():strip_icc()/pic1215633.jpg)
-![War of the ring Screenshot 2](https://cf.geekdo-images.com/_wQ_lfm1z2ZyKoBQU17m_g__imagepage/img/pOwMJDRG3nhy3HbYpcrf9AZE7PY=/fit-in/900x600/filters:no_upscale():strip_icc()/pic1186338.jpg)
-![War of the ring Screenshot 3](https://cf.geekdo-images.com/E35JBxpHvZlaR4Zbyg75yA__imagepage/img/-TRTTLtRybiqwxO6F0_aB6ribx4=/fit-in/900x600/filters:no_upscale():strip_icc()/pic1174518.jpg)
-
-**GitHub Repository:**
-[GitHub - War of the ring](https://github.com/username/mystic-quest)
-
----
-
-### Project: **Galactic Conquest**
-
-**Description:**
-*Galactic Conquest* is a competitive space exploration game where players compete to control the galaxy by colonizing planets, building fleets, and engaging in interstellar battles. The game offers deep strategy and high replayability.
-
-**Authors:**
-- John Doe
-- Sarah Lee
-- David Martinez
-
-**Implemented Board Game:**
-- *Galactic Conquest*
-
-**Screenshots:**
-
-![Galactic Conquest Screenshot 1](https://cf.geekdo-images.com/Jw9I_7gyaotrzNmqI_qdEA__imagepage/img/I_E6262LplmP4eMcFcN1f0PE5dU=/fit-in/900x600/filters:no_upscale():strip_icc()/pic6306110.jpg)
-![Galactic Conquest Screenshot 2](https://cf.geekdo-images.com/PI6nWxP_16y4H47vql9aAA__imagepage/img/gsN9yjc6sqGzxPvUHyjP-cKN2_k=/fit-in/900x600/filters:no_upscale():strip_icc()/pic6308551.jpg)
-![Galactic Conquest Screenshot 3](https://cf.geekdo-images.com/FkhUycCupRgiah63NvfStg__imagepage/img/H_ThyH9zxZVlp2rHglWNbBp3Uec=/fit-in/900x600/filters:no_upscale():strip_icc()/pic6308550.jpg)
-
-**GitHub Repository:**
-[GitHub - Galactic Conquest](https://github.com/username/galactic-conquest)
-
----
-
 ## Academic Year 2022-2023
 
 ### Project: **Tyrants of the Underdark**
@@ -183,5 +133,40 @@ Screencast playing the game:
 **GitHub Repository:**
 [GitHub - Monopoly](https://github.com/gii-is-DP1/dp1-2022-2023-l7-3)
 
+## Academic Year 2021-2022
+
+### Project: **King of Tokyo**
+
+**Description:**
+*King of Tokyo* is a game for 2 to 6 players, with an average game length of 30 minutes, in which all players compete against each other to determine who will become the King of Tokyo. 
+
+This title is claimed by the first player to reach 20 points or by the last player standing. The game consists of individual turns for each player, during which they can roll the dice up to three times. With these rolls, players can attack others, heal themselves, earn points towards victory, and gain energy to purchase cards that trigger various effects.
+
+Additionally, on the board, there is a zone where players compete, gaining both advantages and disadvantages in their quest to accumulate the highest score.
+
+**Authors:**
+- Cruz Duárez, Sara
+- Delgado Sánchez, José María
+- López Durán, Noelia
+- Molina Arregui, Rosa María
+- Nadal García, Ricardo
+- Varela Soult, Carlos
+
+**Implemented Board Game:**
+- *King of Tokyo*
+
+**Screenshots:**
+![King_of_Tokyo Screenshot 1](https://www.dropbox.com/scl/fi/vwdp5dzd4nd9hm1n0d2zy/Portada.png?rlkey=snvzzp793m6rzmiknvnis583p&dl=1)
+![King_of_Tokyo Screenshot 2](https://github.com/gii-is-DP1/dp1-2021-2022-l8-4/raw/master/src/main/resources/static/resources/images/principal.png)
+![King_of_Tokyo Screenshot 3]([https://github.com/gii-is-DP1/dp1-2021-2022-l8-4/raw/master/src/main/resources/static/resources/images/principal.png](https://www.dropbox.com/scl/fi/wirevtnzht5p3ch78jkbr/Gameplay.png?rlkey=pqhd9j634fk03i1rweq606b36&dl=0))
+Screencast playing the game:
+
+[https://youtu.be/ohXMYBgUpqY](https://youtu.be/ohXMYBgUpqY)
+
+
+**GitHub Repository:**
+[King of tokyo]([https://github.com/username/mystic-quest](https://github.com/gii-is-DP1/dp1-2021-2022-l8-4))
+
+**JDK 11**
 ---
 Each of these projects reflects the hard work and innovation of our students. We are proud to showcase their achievements and encourage you to explore their repositories for more insights into their development process.
