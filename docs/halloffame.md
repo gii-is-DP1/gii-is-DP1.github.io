@@ -158,14 +158,15 @@ Additionally, on the board, there is a zone where players compete, gaining both 
 **Screenshots:**
 ![King_of_Tokyo Screenshot 1](https://www.dropbox.com/scl/fi/vwdp5dzd4nd9hm1n0d2zy/Portada.png?rlkey=snvzzp793m6rzmiknvnis583p&dl=1)
 ![King_of_Tokyo Screenshot 2](https://github.com/gii-is-DP1/dp1-2021-2022-l8-4/raw/master/src/main/resources/static/resources/images/principal.png)
-![King_of_Tokyo Screenshot 3]([https://github.com/gii-is-DP1/dp1-2021-2022-l8-4/raw/master/src/main/resources/static/resources/images/principal.png](https://www.dropbox.com/scl/fi/wirevtnzht5p3ch78jkbr/Gameplay.png?rlkey=pqhd9j634fk03i1rweq606b36&dl=0))
+![King_of_Tokyo Screenshot 3](https://www.dropbox.com/scl/fi/wirevtnzht5p3ch78jkbr/Gameplay.png?rlkey=pqhd9j634fk03i1rweq606b36&dl=1)
+
 Screencast playing the game:
 
 [https://youtu.be/ohXMYBgUpqY](https://youtu.be/ohXMYBgUpqY)
 
 
 **GitHub Repository:**
-[King of tokyo]([https://github.com/username/mystic-quest](https://github.com/gii-is-DP1/dp1-2021-2022-l8-4))
+[King of tokyo](https://github.com/gii-is-DP1/dp1-2021-2022-l8-4)
 
 **JDK 11**
 ---
