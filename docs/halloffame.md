@@ -156,9 +156,9 @@ Additionally, on the board, there is a zone where players compete, gaining both 
 - *King of Tokyo*
 
 **Screenshots:**
-![King_of_Tokyo Screenshot 1](https://www.dropbox.com/scl/fi/vwdp5dzd4nd9hm1n0d2zy/Portada.png?rlkey=snvzzp793m6rzmiknvnis583p&dl=1)
+![Portada](https://github.com/user-attachments/assets/28a96855-679f-4229-b7b8-a6bde3996d5a)
 ![King_of_Tokyo Screenshot 2](https://github.com/gii-is-DP1/dp1-2021-2022-l8-4/raw/master/src/main/resources/static/resources/images/principal.png)
-![King_of_Tokyo Screenshot 3](https://www.dropbox.com/scl/fi/wirevtnzht5p3ch78jkbr/Gameplay.png?rlkey=pqhd9j634fk03i1rweq606b36&dl=1)
+![Gameplay](https://github.com/user-attachments/assets/2e2af307-f3e4-45a1-ac67-4c8c0312b445)
 
 Screencast playing the game:
 
@@ -168,6 +168,7 @@ Screencast playing the game:
 **GitHub Repository:**
 [King of tokyo](https://github.com/gii-is-DP1/dp1-2021-2022-l8-4)
 
-**JDK 11**
+Please use *Jdk v11* to run this game, otherwise you will get some errors. 
+
 ---
 Each of these projects reflects the hard work and innovation of our students. We are proud to showcase their achievements and encourage you to explore their repositories for more insights into their development process.
