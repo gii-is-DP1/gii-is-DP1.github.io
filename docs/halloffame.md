@@ -7,8 +7,45 @@ sidebar_position: 1
 Welcome to the hall of fame (showcase of the best projects) from the **Design & Tests 1 (DP1)** course. Each year, our students demonstrate creativity, technical skills, and teamwork by developing exceptional online playable versions of board games. Below are the top projects selected from each academic year.
 
 ---
+## Academic Year 2023-2024
+
+### Project: **Fantasy Realms**
+
+**Description:**
+As ruler, it's up to you to build the mightiest realm in the world! Will you choose to follow military tactics and sweep away all in your path with a massive army? Will you turn towards sorcery and control an inaccessible island surrounded by impenetrable flames? The choice is yours, and no two realms will ever be the same in Fantasy Realms, a combo-licious card game.
+
+*Fantasy Realms* takes seconds to learn: Draw a card, discard a card — though you can draw from the deck or the discard area!
+
+Make the best hand you can by making the best combos. The game ends when ten cards are in the discard area. Aim for the highest score to win!
+
+![cards](https://cf.geekdo-images.com/t5wfhKoPQ1Lqy_QD3vZzCA__imagepage/img/gKkcp2EM5ZJMzjjABdqM-JCr71Q=/fit-in/900x600/filters:no_upscale():strip_icc()/pic3705458.jpg)
+
+
+**Authors:**
+- María José Ruíz Vázquez
+
+- Juan Varo Vera
+
+- Jianwu Hu
+
+- Antonio Rodriguez Calderón
+
+- Pablo Olivencia Moreno
+
+- Pablo Castrillón Mora
+
+**Implemented Board Game:**
+- *Fantasy Realms*
+
+**Screencast playing the game:**
+[https://youtu.be/F63tMH2Skr8](https://youtu.be/F63tMH2Skr8)
+
+**GitHub Repository:**
+[GitHub - Fantasy Realms](https://github.com/gii-is-DP1/DP1-2024-2025--l2-05)
 
 ## Academic Year 2022-2023
+
+
 
 ### Project: **Tyrants of the Underdark**
 
