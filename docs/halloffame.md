@@ -83,7 +83,7 @@ The system aims to provide players with an immersive and engaging experience of 
 [https://www.youtube.com/watch?v=gxbQsZ0weaU](https://www.youtube.com/watch?v=gxbQsZ0weaU)
 
 **GitHub Repository:**
-[https://github.com/gii-is-DP1/DP1-2024-2025--l3-4](https://github.com/gii-is-DP1/DP1-2024-2025--l3-4)
+[https://github.com/gii-is-DP1/DP1-2024-2025--l3-4](https://github.com/gii-is-DP1/Pandemic)
 
 ## Academic Year 2022-2023
 
