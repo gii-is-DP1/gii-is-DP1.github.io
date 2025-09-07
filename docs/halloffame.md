@@ -7,7 +7,7 @@ sidebar_position: 1
 Welcome to the hall of fame (showcase of the best projects) from the **Design & Tests 1 (DP1)** course. Each year, our students demonstrate creativity, technical skills, and teamwork by developing exceptional online playable versions of board games. Below are the top projects selected from each academic year.
 
 ---
-## Academic Year 2023-2024
+## Academic Year 2024-2025
 
 ### Project: **Fantasy Realms**
 
@@ -42,6 +42,48 @@ Make the best hand you can by making the best combos. The game ends when ten car
 
 **GitHub Repository:**
 [GitHub - Fantasy Realms](https://github.com/gii-is-DP1/FantasyRealms)
+
+
+### Project: **Pandemic**
+
+**Description:**
+The system aims to provide players with an immersive and engaging experience of playing the popular board game PANDEMIC in a digital environment. Players will be able to collaborate in real time to stop the spread of diseases and discover cures, replicating the dynamics and strategy of the original game.
+
+![Index](https://github.com/gii-is-DP1/DP1-2024-2025--l3-4/blob/main/docs/mockups/h29.png)
+
+![Loby](https://github.com/gii-is-DP1/DP1-2024-2025--l3-4/blob/main/docs/mockups/h10.png)
+
+![Board](https://github.com/gii-is-DP1/DP1-2024-2025--l3-4/blob/main/docs/mockups/h13-e1.png)
+
+![Vaccines](https://github.com/gii-is-DP1/DP1-2024-2025--l3-4/blob/main/docs/mockups/h18-e1.png)
+
+![Trades](https://github.com/gii-is-DP1/DP1-2024-2025--l3-4/blob/main/docs/mockups/h19-e1.png)
+
+
+
+
+
+**Authors:**
+- Manuel Artero Bellido
+
+- Adrián Ramírez Gil
+
+- Alba Ramos Vargas
+
+- Samuel Tamayo Balogh
+
+- Manuel Zoilo Buzón Muñoz
+
+- Manuel Lavado Corredera
+
+**Implemented Board Game:**
+- *Pandemic*
+
+**Screencast playing the game:**
+[https://www.youtube.com/watch?v=gxbQsZ0weaU](https://www.youtube.com/watch?v=gxbQsZ0weaU)
+
+**GitHub Repository:**
+[https://github.com/gii-is-DP1/DP1-2024-2025--l3-4](https://github.com/gii-is-DP1/DP1-2024-2025--l3-4)
 
 ## Academic Year 2022-2023
 
