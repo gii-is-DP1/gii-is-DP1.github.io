@@ -41,7 +41,7 @@ Make the best hand you can by making the best combos. The game ends when ten car
 [https://youtu.be/F63tMH2Skr8](https://youtu.be/F63tMH2Skr8)
 
 **GitHub Repository:**
-[GitHub - Fantasy Realms](https://github.com/gii-is-DP1/DP1-2024-2025--l2-05)
+[GitHub - Fantasy Realms](https://github.com/gii-is-DP1/FantasyRealms)
 
 ## Academic Year 2022-2023
 
