@@ -49,15 +49,15 @@ Make the best hand you can by making the best combos. The game ends when ten car
 **Description:**
 The system aims to provide players with an immersive and engaging experience of playing the popular board game PANDEMIC in a digital environment. Players will be able to collaborate in real time to stop the spread of diseases and discover cures, replicating the dynamics and strategy of the original game.
 
-![Index](https://github.com/gii-is-DP1/DP1-2024-2025--l3-4/blob/main/docs/mockups/h29.png)
+![Index](https://github.com/gii-is-DP1/Pandemic/blob/main/docs/mockups/h29.png)
 
-![Loby](https://github.com/gii-is-DP1/DP1-2024-2025--l3-4/blob/main/docs/mockups/h10.png)
+![Loby](https://github.com/gii-is-DP1/Pandemic/blob/main/docs/mockups/h10.png)
 
-![Board](https://github.com/gii-is-DP1/DP1-2024-2025--l3-4/blob/main/docs/mockups/h13-e1.png)
+![Board](https://github.com/gii-is-DP1/Pandemic/blob/main/docs/mockups/h13-e1.png)
 
-![Vaccines](https://github.com/gii-is-DP1/DP1-2024-2025--l3-4/blob/main/docs/mockups/h18-e1.png)
+![Vaccines](https://github.com/gii-is-DP1/Pandemic/blob/main/docs/mockups/h18-e1.png)
 
-![Trades](https://github.com/gii-is-DP1/DP1-2024-2025--l3-4/blob/main/docs/mockups/h19-e1.png)
+![Trades](https://github.com/gii-is-DP1/Pandemic/blob/main/docs/mockups/h19-e1.png)
 
 
 
@@ -95,9 +95,9 @@ During rounds, each player selects a character and gain their unique abilities. 
 
 The game ends at the end of the round in which one player builds seven districts in their citadel. At that moment, the player with more points wins and becomes the next Construction Master of the kingdom.
 
-![Home screen of the app](https://github.com/gii-is-DP1/DP1-2024-2025--leng-2/raw/main/docs/mockups/1.png)
+![Home screen of the app](https://github.com/gii-is-DP1/Citadels/raw/main/docs/mockups/1.png)
 
-![Ongoing game](https://github.com/gii-is-DP1/DP1-2024-2025--leng-2/raw/main/docs/mockups/20.png)
+![Ongoing game](https://github.com/gii-is-DP1/Citadels/raw/main/docs/mockups/20.png)
 
 **Authors:**
 - José Egido Carnerero
