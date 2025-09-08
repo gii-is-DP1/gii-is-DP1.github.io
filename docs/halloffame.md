@@ -85,6 +85,38 @@ The system aims to provide players with an immersive and engaging experience of 
 **GitHub Repository:**
 [https://github.com/gii-is-DP1/Pandemic](https://github.com/gii-is-DP1/Pandemic)
 
+
+### Project: **Citadels**
+
+**Description:**
+Citadels is a game in which 2 to 7 players compete to become the next Construction Master of the kingdom, impressing the nobility with their ability to build a citadel. The usual duration of the game is around 45 minutes.
+
+During rounds, each player selects a character and gain their unique abilities. Each player builds their own citadel by building district cards from their hand, which, at the end of the game, will provide them with as many points as coins they paid to build them. Players may gain additional points by building some specific districts, having all types of districts or completing their citadel.
+
+The game ends at the end of the round in which one player builds seven districts in their citadel. At that moment, the player with more points wins and becomes the next Construction Master of the kingdom.
+
+![Home screen of the app](https://github.com/gii-is-DP1/DP1-2024-2025--leng-2/raw/main/docs/mockups/1.png)
+
+![Ongoing game](https://github.com/gii-is-DP1/DP1-2024-2025--leng-2/raw/main/docs/mockups/20.png)
+
+**Authors:**
+- José Egido Carnerero
+- Daniel Herrera Urbano
+- Ignacio Mora Pérez
+- María Quirós Quiroga
+- Alejandro Parody Quirós
+- Guillermo Rodríguez Narbona
+
+**Implemented Board Game:**
+- *Citadels*
+
+**Screencast playing the game:**
+[https://youtu.be/L4eje2vX0t4](https://youtu.be/L4eje2vX0t4)
+
+**GitHub Repository:**
+[GitHub - Citadels](https://github.com/gii-is-DP1/Citadels)
+
+
 ## Academic Year 2022-2023
 
 
