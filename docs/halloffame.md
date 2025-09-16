@@ -49,15 +49,15 @@ Make the best hand you can by making the best combos. The game ends when ten car
 **Description:**
 The system aims to provide players with an immersive and engaging experience of playing the popular board game PANDEMIC in a digital environment. Players will be able to collaborate in real time to stop the spread of diseases and discover cures, replicating the dynamics and strategy of the original game.
 
-![Index](https://github.com/gii-is-DP1/Pandemic/blob/main/docs/mockups/h29.png)
+![Index](https://github.com/gii-is-DP1/Pandemic/raw/main/docs/mockups/h29.png)
 
-![Loby](https://github.com/gii-is-DP1/Pandemic/blob/main/docs/mockups/h10.png)
+![Loby](https://github.com/gii-is-DP1/Pandemic/raw/main/docs/mockups/h10.png)
 
-![Board](https://github.com/gii-is-DP1/Pandemic/blob/main/docs/mockups/h13-e1.png)
+![Board](https://github.com/gii-is-DP1/Pandemic/raw/main/docs/mockups/h13-e1.png)
 
-![Vaccines](https://github.com/gii-is-DP1/Pandemic/blob/main/docs/mockups/h18-e1.png)
+![Vaccines](https://github.com/gii-is-DP1/Pandemic/raw/main/docs/mockups/h18-e1.png)
 
-![Trades](https://github.com/gii-is-DP1/Pandemic/blob/main/docs/mockups/h19-e1.png)
+![Trades](https://github.com/gii-is-DP1/Pandemic/raw/main/docs/mockups/h19-e1.png)
 
 
 
