@@ -16,15 +16,15 @@ Welcome to the hall of fame (showcase of the best projects) from the **Design & 
  
 Our project is a real-time online multiplayer adaptation of the popular strategic card game *Unstable Unicorns* for 2 to 4 players, with matches lasting between 15 and 40 minutes. Each player starts by choosing a Baby Unicorn from the Nursery and competes to be the first to collect 7 Unicorns in their Stable, while sabotaging opponents through Magic cards, Downgrades, and Neigh interruptions.
  
-![Game overview](/img/halloffame/unstable-unicorns/01-game-overview.png)
+![Game overview](/static/img/halloffame/unstable-unicorns/01-game-overview.png)
  
-![Home screen](/img/halloffame/unstable-unicorns/02-home-screen.png)
+![Home screen](/static/img/halloffame/unstable-unicorns/02-home-screen.png)
  
 During each turn, players follow the four classic phases: Beginning of Turn effects, Draw, Action (play a card or draw an extra one), and End of Turn (enforcing the 7-card hand limit). The core of the game is powered by an automated rules engine supporting 67+ unique card effects across Magic Unicorns, Magic, Upgrades, Downgrades, and Instant cards, alongside a LIFO effect stack that handles interactive Neigh and Super Neigh chains in real time.
  
-![Game board and active turn](/img/halloffame/unstable-unicorns/03-game-board.png)
+![Game board and active turn](/static/img/halloffame/unstable-unicorns/03-game-board.png)
  
-![Neigh interruption modal](/img/halloffame/unstable-unicorns/04-neigh-modal.png)
+![Neigh interruption modal](/static/img/halloffame/unstable-unicorns/04-neigh-modal.png)
  
 **Key Features:**
  
@@ -35,9 +35,9 @@ During each turn, players follow the four classic phases: Beginning of Turn effe
 5. **Customization and Audio:** Glassmorphism UI, Dark/Light mode, Spanish and English support (i18n), selectable game board backgrounds, custom avatars, background music player, reactive sound effects, and responsive design.
 ![Player hand and card gallery](/img/halloffame/unstable-unicorns/05-player-hand.png)
  
-![Achievements and global statistics](/img/halloffame/unstable-unicorns/06-achievements.png)
+![Achievements and global statistics](/static/img/halloffame/unstable-unicorns/06-achievements.png)
  
-![In-game chat, social and reputation panel](/img/halloffame/unstable-unicorns/07-chat-social.png)
+![In-game chat, social and reputation panel](/static/img/halloffame/unstable-unicorns/07-chat-social.png)
  
 **Authors:**
 - Miguel Cuesta Sánchez
